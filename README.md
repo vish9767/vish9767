@@ -1,6 +1,6 @@
 👋 Hi, I'm Vishal Ambade (@vish9767)
 
-💻 Software Developer with a strong focus on Python, Django, and backend development.
+💻 Software Developer with a strong focus on Python, Django,FastApi, Gen Ai and backend development.
 
 🚀 Currently Exploring: Kubernetes, container orchestration, and cloud-native solutions to deepen my DevOps capabilities.
 
